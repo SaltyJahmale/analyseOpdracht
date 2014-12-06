@@ -11,6 +11,6 @@ package com.mycompany.testjenkins;
  */
 public class Max {
     public void say(){
-        System.out.println("");
+        System.out.println("asdasdasd");
     }
 }
