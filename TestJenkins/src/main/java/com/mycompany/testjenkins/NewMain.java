@@ -16,7 +16,8 @@ public class NewMain {
      */
     public static void main(String[] args) {
         Max max = new Max();
-        System.out.println(max);
+        System.out.println(max.say());
+        System.out.println("asdasdasd");
     }
     
 }

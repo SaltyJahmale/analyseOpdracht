@@ -10,9 +10,7 @@ package com.mycompany.testjenkins;
  * @author UR mama
  */
 public class Max {
-    public void say(){
-        System.out.println("asdasdasd");
-        System.out.println("asdas");
-        System.out.println("asdasasd");
+    public String say() {
+        return "Hello, World!";
     }
 }
