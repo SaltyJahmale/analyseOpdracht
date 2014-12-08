@@ -13,5 +13,6 @@ public class Max {
     public void say(){
         System.out.println("asdasdasd");
         System.out.println("asdas");
+        System.out.println("asdasasd");
     }
 }
