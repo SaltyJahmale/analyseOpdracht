@@ -15,8 +15,11 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        MathExample math = new MathExample();
-        System.out.println(math);
+        double a = 5.5;
+        double b = 4.0;
+        
+        double result = MathExample.multiply(a, b);
+        System.out.println(result);
     }
     
 }
