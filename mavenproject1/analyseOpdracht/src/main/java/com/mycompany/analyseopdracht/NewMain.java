@@ -20,6 +20,8 @@ public class NewMain {
         
         double result = MathExample.multiply(a, b);
         System.out.println(result);
+        System.out.println("Hallo");
+        
     }
     
 }

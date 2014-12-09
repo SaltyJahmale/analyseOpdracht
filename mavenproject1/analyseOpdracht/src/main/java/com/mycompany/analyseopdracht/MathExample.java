@@ -13,5 +13,6 @@ package com.mycompany.analyseopdracht;
 public class MathExample {
     public static double multiply(double a, double b){
         return a * b;
+        
     }
 }
