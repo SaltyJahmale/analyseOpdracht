@@ -12,6 +12,10 @@ import static org.junit.Assert.*;
  * @author UR mama
  */
 public class MathExampleTest {
+
+    /**
+     *
+     */
     @Test
     public void testMultiply() {
         

@@ -11,6 +11,14 @@ package com.mycompany.analyseopdracht;
  * @author  UR mama
  */
 public class MathExample {
+
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     * 
+     */
     public static double multiply(double a, double b){
         //test comment voor javadoc
         return a * b;
