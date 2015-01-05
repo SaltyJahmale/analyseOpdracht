@@ -12,6 +12,7 @@ package com.mycompany.analyseopdracht;
  */
 public class MathExample {
     public static double multiply(double a, double b){
+        //test comment voor javadoc
         return a * b;
         
     }

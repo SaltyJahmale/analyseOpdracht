@@ -14,9 +14,12 @@ import static org.junit.Assert.*;
 public class MathExampleTest {
     @Test
     public void testMultiply() {
+        
+        //Variabelen
         double a = 5.5;
         double b = 4.0;
         
+        //Je verwacht dat de uitkomst 22 is
         double expected = 22;
         double result = MathExample.multiply(a, b);
         

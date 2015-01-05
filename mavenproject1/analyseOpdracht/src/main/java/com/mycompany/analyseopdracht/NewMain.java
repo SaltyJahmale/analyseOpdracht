@@ -15,15 +15,22 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        //Dit zijn twee doubles variabelen 
         double a = 5.5;
         double b = 4.0;
         
+        //Het resultaat
         double result = MathExample.multiply(a, b);
+        
+        //Print result
         System.out.println(result);
+        
+        //Print hallo, wordt gebruikt als test
         System.out.println("Hallo");
         
-        //sdadasdasd
-        //asdfafafa
+        //sdadasdasd useless comment
+        //asdfafafa useless comment
     }
     
 }
